@@ -1,0 +1,23 @@
+{
+  "name": "tweetulator",
+  "version": "1.0.0",
+  "description": "botnet tweeter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Athoir/tweetulator.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter"
+  ],
+  "author": "Athoir,Satanus,R.Maussang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Athoir/tweetulator/issues"
+  },
+  "homepage": "https://github.com/Athoir/tweetulator#readme"
+}
